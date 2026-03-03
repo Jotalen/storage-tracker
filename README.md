@@ -1,13 +1,6 @@
-# storage-tracker
-StorageTraker helps eBay sellers stay organized by giving them a clear, accurate view of their storage inventory at all times. Whether you manage a small side‑hustle or a growing online store, StorageTraker keeps your items, quantities, and listing statuses neatly under control.
-
-Here is a complete, professional **README.md** draft for your *StorageTraker* repository — structured, polished, and ready to drop into GitHub.
-
----
-
 # **StorageTraker**
 
-A streamlined inventory‑management application designed for eBay sellers who need accurate, real‑time control of their stored items, listings, and workflow. StorageTraker provides a clean interface, fast lookups, and reliable tracking to help sellers stay organized and prevent costly mistakes like overselling or misplacing inventory.
+StorageTraker is an streamlined inventory‑management application designed for eBay sellers who need accurate, real‑time control of their stored items, listings, and workflow. StorageTraker provides a clean interface, fast lookups, and reliable tracking to help sellers stay organized and prevent costly mistakes like overselling or misplacing inventory. Whether you manage a small side‑hustle or a growing online store, StorageTraker keeps your items, quantities, and listing statuses neatly under control.
 
 ---
 
